@@ -1,0 +1,40 @@
+{
+  "resources": [
+    {
+      "title": "精美图标素材包",
+      "description": "包含1000+高质量矢量图标，适用于网页设计和移动应用开发。包含多种风格：线性、填充、双色等。",
+      "image": "images/icons-pack.jpg",
+      "link": "https://pan.quark.cn/s/your-link-1"
+    },
+    {
+      "title": "前端开发工具合集",
+      "description": "集合了最实用的前端开发工具和插件，包括VSCode扩展、Chrome调试工具、在线工具等，提升开发效率必备。",
+      "image": "images/frontend-tools.jpg",
+      "link": "https://pan.quark.cn/s/your-link-2"
+    },
+    {
+      "title": "UI设计规范手册",
+      "description": "详细的UI设计规范文档，包含颜色搭配、字体选择、间距规则、组件设计等内容，帮助设计师和开发者建立统一的设计语言。",
+      "image": "images/ui-guidelines.jpg",
+      "link": "https://pan.quark.cn/s/your-link-3"
+    },
+    {
+      "title": "响应式网页模板",
+      "description": "10套精心设计的响应式网页模板，适用于企业官网、个人博客、电商网站等多种场景。所有模板均经过移动端优化。",
+      "image": "images/web-templates.jpg",
+      "link": "https://pan.quark.cn/s/your-link-4"
+    },
+    {
+      "title": "JavaScript进阶教程",
+      "description": "从基础到高级的JavaScript学习资料，包含ES6+新特性、异步编程、函数式编程等核心概念，配有大量实战案例。",
+      "image": "images/js-tutorial.jpg",
+      "link": "https://pan.quark.cn/s/your-link-5"
+    },
+    {
+      "title": "移动端UI组件库",
+      "description": "完整的移动端UI组件库，包含按钮、表单、导航、弹窗等常用组件。支持主流框架，提供完整的开发文档和使用示例。",
+      "image": "images/mobile-ui.jpg",
+      "link": "https://pan.quark.cn/s/your-link-6"
+    }
+  ]
+}
