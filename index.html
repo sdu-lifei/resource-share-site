@@ -117,7 +117,7 @@
 
         .resources-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
             gap: 25px;
             padding: 20px 0;
         }
@@ -139,14 +139,34 @@
 
         .card-image {
             width: 100%;
-            height: 200px;
-            object-fit: cover;
+            height: 0;
+            padding-bottom: 177.78%; /* 9:16 比例 (16/9 * 100%) */
+            position: relative;
             background: linear-gradient(45deg, #f0f2f5, #e1e5e9);
+            overflow: hidden;
+        }
+
+        .card-image img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .card-image-placeholder {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
             display: flex;
             align-items: center;
             justify-content: center;
             color: #8b949e;
             font-size: 1rem;
+            background: linear-gradient(45deg, #f0f2f5, #e1e5e9);
         }
 
         .card-content {
@@ -229,7 +249,7 @@
             }
             
             .resources-grid {
-                grid-template-columns: 1fr;
+                grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
                 gap: 20px;
             }
             
@@ -261,12 +281,42 @@
                 font-size: 16px;
             }
             
+            .resources-grid {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+            
             .card-content {
                 padding: 16px;
             }
             
             body {
                 padding: 10px;
+            }
+        }
+
+        /* 超小屏幕优化 */
+        @media (max-width: 360px) {
+            .resources-grid {
+                grid-template-columns: 1fr;
+                gap: 15px;
+            }
+            
+            .card-content {
+                padding: 14px;
+            }
+            
+            .card-title {
+                font-size: 1.1rem;
+            }
+            
+            .card-description {
+                font-size: 0.9rem;
+            }
+            
+            .download-btn {
+                padding: 10px 20px;
+                font-size: 0.95rem;
             }
         }
 
@@ -467,12 +517,16 @@
 
             return `
                 <div class="resource-card">
-                    ${imageUrl ? 
-                        `<img src="${escapeHtml(imageUrl)}" alt="${safeTitle}" class="card-image" 
-                             onerror="this.outerHTML='<div class=\\'card-image\\'>🖼️ 图片加载失败</div>'">`
-                        : 
-                        '<div class="card-image">📁 暂无封面</div>'
-                    }
+                    <div class="card-image">
+                        ${imageUrl ? 
+                            `<img src="${escapeHtml(imageUrl)}" alt="${safeTitle}" 
+                                 onerror="this.style.display='none'; this.parentNode.querySelector('.card-image-placeholder').style.display='flex';">`
+                            : ''
+                        }
+                        <div class="card-image-placeholder" style="display: ${imageUrl ? 'none' : 'flex'};">
+                            📁 暂无封面
+                        </div>
+                    </div>
                     <div class="card-content">
                         <h3 class="card-title">${safeTitle}</h3>
                         <p class="card-description">${safeDescription}</p>
