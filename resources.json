@@ -1,1246 +1,1045 @@
 {
   "resources": [
     {
-      "title": "res_to_share",
-      "description": "包含res_to_share相关的优质资源，适用于各种项目需求。",
-      "image": "images/1.png",
-      "link": "https://pan.quark.cn/s/0ce1c52fd8db",
-      "path": "res_to_share",
-      "fid": "4b08ab1e2f7b488eacfe28282eec04f1"
-    },
-    {
-      "title": "夸克上传文件",
-      "description": "包含夸克上传文件相关的优质资源，适用于各种项目需求。",
-      "image": "images/2.png",
-      "link": "https://pan.quark.cn/s/67363ccf83fe",
-      "path": "夸克上传文件",
-      "fid": "49d30ea390cd473ba1bd20c32c09f490"
-    },
-    {
-      "title": "来自：分享",
-      "description": "包含来自：分享相关的优质资源，适用于各种项目需求。",
-      "image": "images/3.png",
-      "link": "https://pan.quark.cn/s/8b90b47c1dfa",
-      "path": "来自：分享",
-      "fid": "bef0dc3c3bbe48b79b70aae76a8f70cb"
-    },
-    {
-      "title": "夸克云解压",
-      "description": "包含夸克云解压相关的优质资源，适用于各种项目需求。",
-      "image": "images/4.png",
-      "link": "https://pan.quark.cn/s/2036359d8b23",
-      "path": "夸克云解压",
-      "fid": "06afda4b1c2f4028a62e841dc5a074bf"
-    },
-    {
-      "title": "我的备份",
-      "description": "包含我的备份相关的优质资源，适用于各种项目需求。",
-      "image": "images/5.png",
-      "link": "https://pan.quark.cn/s/245b6d1f3d91",
-      "path": "我的备份",
-      "fid": "9069fd11d206483485789d560e6bf802"
-    },
-    {
-      "title": "res_to_share",
-      "description": "包含res_to_share相关的优质资源，适用于各种项目需求。",
-      "image": "",
-      "link": "https://pan.quark.cn/s/8a10d69e399c",
-      "path": "res_to_share/res_to_share",
-      "fid": "4b08ab1e2f7b488eacfe28282eec04f1",
-      "total_count": 6,
-      "generated_at": "2025-09-01 00:14:24"
-    },
-    {
-      "title": "夸克上传文件",
-      "description": "包含夸克上传文件相关的优质资源，适用于各种项目需求。",
-      "image": "",
-      "link": "https://pan.quark.cn/s/b57a0f1bc7a1",
-      "path": "res_to_share/夸克上传文件",
-      "fid": "49d30ea390cd473ba1bd20c32c09f490",
-      "total_count": 6,
-      "generated_at": "2025-09-01 00:14:28"
-    },
-    {
-      "title": "来自：分享",
-      "description": "包含来自：分享相关的优质资源，适用于各种项目需求。",
-      "image": "",
-      "link": "https://pan.quark.cn/s/7e1ac3037bac",
-      "path": "res_to_share/来自：分享",
-      "fid": "bef0dc3c3bbe48b79b70aae76a8f70cb",
-      "total_count": 6,
-      "generated_at": "2025-09-01 00:14:30"
-    },
-    {
-      "title": "夸克云解压",
-      "description": "包含夸克云解压相关的优质资源，适用于各种项目需求。",
-      "image": "",
-      "link": "https://pan.quark.cn/s/73b65ef78ed8",
-      "path": "res_to_share/夸克云解压",
-      "fid": "06afda4b1c2f4028a62e841dc5a074bf",
-      "total_count": 6,
-      "generated_at": "2025-09-01 00:14:33"
-    },
-    {
-      "title": "夸克上传文件",
-      "description": "包含夸克上传文件相关的优质资源，适用于各种项目需求。",
-      "image": "images/1.png",
-      "link": "https://pan.quark.cn/s/6b02ab94fa69",
-      "path": "res_to_share/夸克上传文件",
-      "fid": "37e4ce0b19c24acd946fc1d66f495ad9",
-      "total_count": 4,
-      "generated_at": "2025-09-01 00:35:55"
-    },
-    {
       "title": "美式英语简史",
       "description": "包含美式英语简史相关的优质资源，适用于各种项目需求。",
-      "image": "images/1.png",
-      "link": "https://pan.quark.cn/s/dd7f33774e8f",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/9d1e49815004",
       "path": "res_to_share/电子书/美式英语简史",
-      "fid": "232545ce6d8b461594428d007baef4a8",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:36:39"
+      "fid": "232545ce6d8b461594428d007baef4a8"
     },
     {
       "title": "美国纽约公共图书馆Top 100英文绘本+音频",
       "description": "高质量音频素材，适用于多媒体制作。",
-      "image": "images/2.png",
-      "link": "https://pan.quark.cn/s/0734fb1fc58e",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/260b047880a5",
       "path": "res_to_share/电子书/美国纽约公共图书馆Top 100英文绘本+音频",
-      "fid": "d035841bce9b4f298b22e0f1868faf25",
-      "total_count": 50,
-      "generated_at": "2025-09-01 00:36:45"
+      "fid": "d035841bce9b4f298b22e0f1868faf25"
     },
     {
       "title": "说话的艺术回话销售技巧电子版 嘴笨反应慢请翻烂这本书",
       "description": "包含说话的艺术回话销售技巧电子版 嘴笨反应慢请翻烂这本书相关的优质资源，适用于各种项目需求。",
-      "image": "images/3.png",
-      "link": "https://pan.quark.cn/s/8e4ec130c2c2",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/06d6a93781f5",
       "path": "res_to_share/电子书/说话的艺术回话销售技巧电子版 嘴笨反应慢请翻烂这本书",
-      "fid": "d86f73d114c245d3ba5eb69b1219283d",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:36:49"
+      "fid": "d86f73d114c245d3ba5eb69b1219283d"
     },
     {
       "title": "成瘾：如何设计让人上瘾的产品、品牌和观念（第2版）",
       "description": "包含成瘾：如何设计让人上瘾的产品、品牌和观念（第2版）相关的优质资源，适用于各种项目需求。",
-      "image": "images/4.png",
-      "link": "https://pan.quark.cn/s/a7bec5835d5b",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/16417c0df1b2",
       "path": "res_to_share/电子书/成瘾：如何设计让人上瘾的产品、品牌和观念（第2版）/成瘾：如何设计让人上瘾的产品、品牌和观念（第2版）",
-      "fid": "e1d83ec5273a4b6ca3ba5cf885a57b7f",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:36:54"
+      "fid": "e1d83ec5273a4b6ca3ba5cf885a57b7f"
     },
     {
       "title": "《电工技术自学一本通》漫画版，零基础轻松掌握实用电工技能",
       "description": "包含《电工技术自学一本通》漫画版，零基础轻松掌握实用电工技能相关的优质资源，适用于各种项目需求。",
-      "image": "images/5.png",
-      "link": "https://pan.quark.cn/s/2c87d411689d",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/d1cefa451495",
       "path": "res_to_share/电子书/《电工技术自学一本通》漫画版，零基础轻松掌握实用电工技能",
-      "fid": "b323919a16b34b95b06399d89db90023",
-      "total_count": 4,
-      "generated_at": "2025-09-01 00:36:58"
+      "fid": "b323919a16b34b95b06399d89db90023"
     },
     {
       "title": "生财有术大航海，24部全套培训教程",
       "description": "详细教程资料，帮助学习和掌握技能。",
-      "image": "images/6.png",
-      "link": "https://pan.quark.cn/s/e2bc0fe5dcc4",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/0603115ab519",
       "path": "res_to_share/电子书/生财有术大航海，24部全套培训教程",
-      "fid": "fe7c15380b854bad887a24028e48e680",
-      "total_count": 24,
-      "generated_at": "2025-09-01 00:37:02"
+      "fid": "fe7c15380b854bad887a24028e48e680"
     },
     {
       "title": "014.李笑来-我的读书经验",
       "description": "包含014.李笑来-我的读书经验相关的优质资源，适用于各种项目需求。",
-      "image": "images/7.png",
-      "link": "https://pan.quark.cn/s/9e7d9016b221",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/d9f5f2d9e98c",
       "path": "res_to_share/电子书/《李笑来付费课程资料合集》/014.李笑来-我的读书经验",
-      "fid": "b8713db463fd46c3ae38cea3ae36f14a",
-      "total_count": 2,
-      "generated_at": "2025-09-01 00:37:07"
+      "fid": "b8713db463fd46c3ae38cea3ae36f14a"
     },
     {
       "title": "015.李笑来-一小时建立终生受用的阅读操作系统",
       "description": "包含015.李笑来-一小时建立终生受用的阅读操作系统相关的优质资源，适用于各种项目需求。",
-      "image": "images/8.png",
-      "link": "https://pan.quark.cn/s/d45974e0b03b",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/5c1b1f5147ba",
       "path": "res_to_share/电子书/《李笑来付费课程资料合集》/015.李笑来-一小时建立终生受用的阅读操作系统",
-      "fid": "b28afdc856f04a619fdd021fb8bfbabd",
-      "total_count": 2,
-      "generated_at": "2025-09-01 00:37:12"
+      "fid": "b28afdc856f04a619fdd021fb8bfbabd"
     },
     {
       "title": "033.李笑来-人人都能用英语",
       "description": "包含033.李笑来-人人都能用英语相关的优质资源，适用于各种项目需求。",
-      "image": "images/9.png",
-      "link": "https://pan.quark.cn/s/2f7fea834878",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/5634afc65581",
       "path": "res_to_share/电子书/《李笑来付费课程资料合集》/033.李笑来-人人都能用英语",
-      "fid": "ecaf65febf124211ab46120afa087713",
-      "total_count": 2,
-      "generated_at": "2025-09-01 00:37:16"
+      "fid": "ecaf65febf124211ab46120afa087713"
     },
     {
       "title": "李笑来谈AI时代的家庭教育",
       "description": "包含李笑来谈AI时代的家庭教育相关的优质资源，适用于各种项目需求。",
-      "image": "images/10.png",
-      "link": "https://pan.quark.cn/s/104676584f89",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/cb3d82b28880",
       "path": "res_to_share/电子书/《李笑来付费课程资料合集》/李笑来谈AI时代的家庭教育",
-      "fid": "a6121e2fa501487a81d37e23e0e57f46",
-      "total_count": 28,
-      "generated_at": "2025-09-01 00:37:20"
+      "fid": "a6121e2fa501487a81d37e23e0e57f46"
     },
     {
       "title": "李笑来《财富的真相》书籍",
       "description": "包含李笑来《财富的真相》书籍相关的优质资源，适用于各种项目需求。",
       "image": "images/11.png",
-      "link": "https://pan.quark.cn/s/b1b998147062",
+      "link": "https://pan.quark.cn/s/1c7224ddbb8f",
       "path": "res_to_share/电子书/《李笑来付费课程资料合集》/李笑来《财富的真相》书籍",
-      "fid": "047c43095ed5477081ad90db5dd03eed",
-      "total_count": 7,
-      "generated_at": "2025-09-01 00:37:25"
+      "fid": "047c43095ed5477081ad90db5dd03eed"
     },
     {
       "title": "李笑来：财富的真相",
       "description": "包含李笑来：财富的真相相关的优质资源，适用于各种项目需求。",
-      "image": "images/12.png",
-      "link": "https://pan.quark.cn/s/d6af14fddb42",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/c886fcefb47c",
       "path": "res_to_share/电子书/《李笑来付费课程资料合集》/李笑来：财富的真相",
-      "fid": "0d69a3256a3e468684c3536cf27b9246",
-      "total_count": 35,
-      "generated_at": "2025-09-01 00:37:30"
+      "fid": "0d69a3256a3e468684c3536cf27b9246"
     },
     {
       "title": "专注的真相",
       "description": "包含专注的真相相关的优质资源，适用于各种项目需求。",
-      "image": "images/13.png",
-      "link": "https://pan.quark.cn/s/10b954423b58",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/72726eb14815",
       "path": "res_to_share/电子书/《李笑来付费课程资料合集》/专注的真相",
-      "fid": "8689e75f511c474ebc90911ca3d37ca2",
-      "total_count": 6,
-      "generated_at": "2025-09-01 00:37:34"
+      "fid": "8689e75f511c474ebc90911ca3d37ca2"
     },
     {
       "title": "视频",
       "description": "优质视频素材集合，适用于各种多媒体项目。",
-      "image": "images/14.png",
-      "link": "https://pan.quark.cn/s/34584922ab5e",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/c28f55d81a8e",
       "path": "res_to_share/电子书/【OPD牛津图解词典】第3版中英文/视频",
-      "fid": "2653cb9a09ee4b9ba5147a6f023dcf01",
-      "total_count": 50,
-      "generated_at": "2025-09-01 00:37:41"
+      "fid": "2653cb9a09ee4b9ba5147a6f023dcf01"
     },
     {
       "title": "必看",
       "description": "包含必看相关的优质资源，适用于各种项目需求。",
-      "image": "images/15.png",
-      "link": "https://pan.quark.cn/s/b64365fff657",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/6dd2707b45cc",
       "path": "res_to_share/电子书/世界小史/必看",
-      "fid": "3931463b19434d00bda5c8d210ca006d",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:37:46"
+      "fid": "3931463b19434d00bda5c8d210ca006d"
     },
     {
       "title": "003.RAZ绘本JPG版+ 音频MP3",
       "description": "高质量音频素材，适用于多媒体制作。",
-      "image": "images/16.png",
-      "link": "https://pan.quark.cn/s/410a845a95dd",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/0f2a9eb20d44",
       "path": "res_to_share/电子书/RAZ分级阅读绘本大全套/003.RAZ绘本JPG版+ 音频MP3",
-      "fid": "e8e37442d2b845429ccc24528e572144",
-      "total_count": 17,
-      "generated_at": "2025-09-01 00:37:52"
+      "fid": "e8e37442d2b845429ccc24528e572144"
     },
     {
       "title": "004.RAZ中文翻译",
       "description": "包含004.RAZ中文翻译相关的优质资源，适用于各种项目需求。",
-      "image": "images/17.png",
-      "link": "https://pan.quark.cn/s/22ac7629476e",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/6d665a107868",
       "path": "res_to_share/电子书/RAZ分级阅读绘本大全套/004.RAZ中文翻译",
-      "fid": "4b80daa71de743f485339d198de45f05",
-      "total_count": 10,
-      "generated_at": "2025-09-01 00:37:56"
+      "fid": "4b80daa71de743f485339d198de45f05"
     },
     {
       "title": "006.RAZ配套教案",
       "description": "包含006.RAZ配套教案相关的优质资源，适用于各种项目需求。",
-      "image": "images/18.png",
-      "link": "https://pan.quark.cn/s/73ca6f83303d",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/166250569541",
       "path": "res_to_share/电子书/RAZ分级阅读绘本大全套/006.RAZ配套教案",
-      "fid": "7d3e456240e24b5f8de2f50cea84f7f4",
-      "total_count": 27,
-      "generated_at": "2025-09-01 00:38:00"
+      "fid": "7d3e456240e24b5f8de2f50cea84f7f4"
     },
     {
       "title": "007.RAZ单词PDF",
       "description": "包含007.RAZ单词PDF相关的优质资源，适用于各种项目需求。",
-      "image": "images/19.png",
-      "link": "https://pan.quark.cn/s/a8901cc101e8",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/aae75e28fa1a",
       "path": "res_to_share/电子书/RAZ分级阅读绘本大全套/007.RAZ单词PDF",
-      "fid": "a1a13c039df74727a3fcab9194d8e8a5",
-      "total_count": 27,
-      "generated_at": "2025-09-01 00:38:04"
+      "fid": "a1a13c039df74727a3fcab9194d8e8a5"
     },
     {
       "title": "009.RAZ书",
       "description": "包含009.RAZ书相关的优质资源，适用于各种项目需求。",
-      "image": "images/20.png",
-      "link": "https://pan.quark.cn/s/0ab2a9bcce81",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/4a64fe76184f",
       "path": "res_to_share/电子书/RAZ分级阅读绘本大全套/009.RAZ书",
-      "fid": "e8165a181f074172ad1250df2eb3c035",
-      "total_count": 29,
-      "generated_at": "2025-09-01 00:38:12"
+      "fid": "e8165a181f074172ad1250df2eb3c035"
     },
     {
       "title": "RAZ AA级-Z音频",
       "description": "高质量音频素材，适用于多媒体制作。",
-      "image": "images/21.png",
-      "link": "https://pan.quark.cn/s/b273a95e4136",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/b5ffee6023ef",
       "path": "res_to_share/电子书/RAZ分级阅读绘本大全套/RAZ AA级-Z音频",
-      "fid": "c2ebb3c08ac742afb143cb105f2ff364",
-      "total_count": 30,
-      "generated_at": "2025-09-01 00:38:16"
+      "fid": "c2ebb3c08ac742afb143cb105f2ff364"
     },
     {
       "title": "清晰思考：将平凡时刻转化为非凡成果（沙恩·帕里什）",
       "description": "包含清晰思考：将平凡时刻转化为非凡成果（沙恩·帕里什）相关的优质资源，适用于各种项目需求。",
-      "image": "images/22.png",
-      "link": "https://pan.quark.cn/s/6d7cd6063659",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/ee6202878328",
       "path": "res_to_share/电子书/清晰思考：将平凡时刻转化为非凡成果（沙恩·帕里什）/清晰思考：将平凡时刻转化为非凡成果（沙恩·帕里什）",
-      "fid": "6c228995ad284d15bc25b38c2eef587b",
-      "total_count": 2,
-      "generated_at": "2025-09-01 00:38:24"
+      "fid": "6c228995ad284d15bc25b38c2eef587b"
     },
     {
       "title": "必看",
       "description": "包含必看相关的优质资源，适用于各种项目需求。",
-      "image": "images/23.png",
-      "link": "https://pan.quark.cn/s/991362b112b3",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/46bce90b17cf",
       "path": "res_to_share/电子书/权力：为什么只为某些人所拥有/必看",
-      "fid": "f069c05739794e1faf125452b5175f9e",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:38:29"
+      "fid": "f069c05739794e1faf125452b5175f9e"
     },
     {
       "title": "回话有招 跃山研究中心",
       "description": "包含回话有招 跃山研究中心相关的优质资源，适用于各种项目需求。",
-      "image": "images/24.png",
-      "link": "https://pan.quark.cn/s/1e0c5eb5dc4b",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/c9889f112889",
       "path": "res_to_share/电子书/回话有招 跃山研究中心",
-      "fid": "ad45314d10c144d5891eb5130db534fb",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:38:33"
+      "fid": "ad45314d10c144d5891eb5130db534fb"
     },
     {
       "title": "李笑来书籍 合集",
       "description": "包含李笑来书籍 合集相关的优质资源，适用于各种项目需求。",
-      "image": "images/25.png",
-      "link": "https://pan.quark.cn/s/1e0e5fffb209",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/784af67a6e76",
       "path": "res_to_share/电子书/李笑来书籍 合集",
-      "fid": "22bfcd22a09847339d53bc47f19c05ec",
-      "total_count": 10,
-      "generated_at": "2025-09-01 00:38:37"
+      "fid": "22bfcd22a09847339d53bc47f19c05ec"
     },
     {
       "title": "必看",
       "description": "包含必看相关的优质资源，适用于各种项目需求。",
-      "image": "images/26.png",
-      "link": "https://pan.quark.cn/s/51ab91534259",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/4501794a23dd",
       "path": "res_to_share/电子书/为什么学生不喜欢上学/必看",
-      "fid": "5be09458a30a400c9472cdfbf5eef1e7",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:38:42"
+      "fid": "5be09458a30a400c9472cdfbf5eef1e7"
     },
     {
       "title": "九年一贯制课本1960-1965年",
       "description": "包含九年一贯制课本1960-1965年相关的优质资源，适用于各种项目需求。",
-      "image": "images/27.png",
-      "link": "https://pan.quark.cn/s/b4f88555a014",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/6b9db20782b9",
       "path": "res_to_share/电子书/2000年以前老课本/九年一贯制课本1960-1965年",
-      "fid": "a0f84ab66a744052aec4a2ad529ed761",
-      "total_count": 7,
-      "generated_at": "2025-09-01 00:38:48"
+      "fid": "a0f84ab66a744052aec4a2ad529ed761"
     },
     {
       "title": "地方课本",
       "description": "包含地方课本相关的优质资源，适用于各种项目需求。",
-      "image": "images/28.png",
-      "link": "https://pan.quark.cn/s/f906e999d238",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/d8c3d3d0de2d",
       "path": "res_to_share/电子书/2000年以前老课本/地方课本",
-      "fid": "88b60cb580cf455aa8ae0c3590832f2f",
-      "total_count": 38,
-      "generated_at": "2025-09-01 00:38:53"
+      "fid": "88b60cb580cf455aa8ae0c3590832f2f"
     },
     {
       "title": "数理化自学从书1965-1978年",
       "description": "包含数理化自学从书1965-1978年相关的优质资源，适用于各种项目需求。",
-      "image": "images/29.png",
-      "link": "https://pan.quark.cn/s/c2a35bff6016",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/889dc69406f2",
       "path": "res_to_share/电子书/2000年以前老课本/数理化自学从书1965-1978年",
-      "fid": "2b9f9eb488f748adba3a80b1c63a40b0",
-      "total_count": 17,
-      "generated_at": "2025-09-01 00:38:58"
+      "fid": "2b9f9eb488f748adba3a80b1c63a40b0"
     },
     {
       "title": "语文60年代以前",
       "description": "包含语文60年代以前相关的优质资源，适用于各种项目需求。",
-      "image": "images/30.png",
-      "link": "https://pan.quark.cn/s/960180b44eea",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/3d3faddc1220",
       "path": "res_to_share/电子书/2000年以前老课本/语文60年代以前",
-      "fid": "b025607cf70743c79203e6e4391e1f23",
-      "total_count": 25,
-      "generated_at": "2025-09-01 00:39:04"
+      "fid": "b025607cf70743c79203e6e4391e1f23"
     },
     {
       "title": "真希望我父母读过这本书",
       "description": "包含真希望我父母读过这本书相关的优质资源，适用于各种项目需求。",
-      "image": "images/31.png",
-      "link": "https://pan.quark.cn/s/fab737efb5cd",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/620bd1d3a25e",
       "path": "res_to_share/电子书/真希望我父母读过这本书/真希望我父母读过这本书",
-      "fid": "d94f4a4dd4fc49bf9e01d7c09966b3aa",
-      "total_count": 2,
-      "generated_at": "2025-09-01 00:39:09"
+      "fid": "d94f4a4dd4fc49bf9e01d7c09966b3aa"
     },
     {
       "title": "微精通：轻松到不可能放弃的技能学习手册",
       "description": "包含微精通：轻松到不可能放弃的技能学习手册相关的优质资源，适用于各种项目需求。",
-      "image": "images/32.png",
-      "link": "https://pan.quark.cn/s/89e6dbf8c960",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/df2887c33df6",
       "path": "res_to_share/电子书/微精通：轻松到不可能放弃的技能学习手册",
-      "fid": "2d17c4db2a964fd88ffa0020e550f306",
-      "total_count": 2,
-      "generated_at": "2025-09-01 00:39:13"
+      "fid": "2d17c4db2a964fd88ffa0020e550f306"
     },
     {
       "title": "防骗指南《江湖丛谈》",
       "description": "包含防骗指南《江湖丛谈》相关的优质资源，适用于各种项目需求。",
-      "image": "images/33.png",
-      "link": "https://pan.quark.cn/s/c1b0e3456c0b",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/0157d96858f3",
       "path": "res_to_share/电子书/防骗指南《江湖丛谈》",
-      "fid": "23c1709bb9fb4742af88c5bd38806b23",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:39:19"
+      "fid": "23c1709bb9fb4742af88c5bd38806b23"
     },
     {
       "title": "财富的起源",
       "description": "包含财富的起源相关的优质资源，适用于各种项目需求。",
-      "image": "images/34.png",
-      "link": "https://pan.quark.cn/s/d8a3734674ee",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/aeffb113e1f7",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/财富的起源",
-      "fid": "415d1f6e37084b8e9df7d6ece7fe09c3",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:39:25"
+      "fid": "415d1f6e37084b8e9df7d6ece7fe09c3"
     },
     {
       "title": "从优秀到卓越（中英文版都有）",
       "description": "包含从优秀到卓越（中英文版都有）相关的优质资源，适用于各种项目需求。",
-      "image": "images/35.png",
-      "link": "https://pan.quark.cn/s/395b7f6363c6",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/4fc53e179d85",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/从优秀到卓越（中英文版都有）",
-      "fid": "9d64b27fcf3b4ad7a8bbbdd9ebcb315a",
-      "total_count": 2,
-      "generated_at": "2025-09-01 00:39:29"
+      "fid": "9d64b27fcf3b4ad7a8bbbdd9ebcb315a"
     },
     {
       "title": "何以胖东来",
       "description": "包含何以胖东来相关的优质资源，适用于各种项目需求。",
-      "image": "images/36.png",
-      "link": "https://pan.quark.cn/s/3fca17bd0629",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/1b1a40075a09",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/何以胖东来",
-      "fid": "2e996188e52c464d97ebaa203522abab",
-      "total_count": 5,
-      "generated_at": "2025-09-01 00:39:33"
+      "fid": "2e996188e52c464d97ebaa203522abab"
     },
     {
       "title": "纳瓦尔2025年最新访谈",
       "description": "包含纳瓦尔2025年最新访谈相关的优质资源，适用于各种项目需求。",
-      "image": "images/37.png",
-      "link": "https://pan.quark.cn/s/ccec62b4f458",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/6e2a2bd52fbe",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/纳瓦尔2025年最新访谈",
-      "fid": "d6ed2b2b3b9b457984984c4b1949b273",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:39:38"
+      "fid": "d6ed2b2b3b9b457984984c4b1949b273"
     },
     {
       "title": "纳瓦尔宝典",
       "description": "包含纳瓦尔宝典相关的优质资源，适用于各种项目需求。",
-      "image": "images/38.png",
-      "link": "https://pan.quark.cn/s/90dbc0517611",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/4fa388ac2dc8",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/纳瓦尔宝典",
-      "fid": "1e280869de7946c8abb3be8b9c5f593f",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:39:42"
+      "fid": "1e280869de7946c8abb3be8b9c5f593f"
     },
     {
       "title": "让人血压飙升的《南明史》",
       "description": "包含让人血压飙升的《南明史》相关的优质资源，适用于各种项目需求。",
-      "image": "images/39.png",
-      "link": "https://pan.quark.cn/s/2089f14a5209",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/2691fb644c36",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/让人血压飙升的《南明史》",
-      "fid": "3ddc062c070f4fe18513d5ea0b87d3df",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:39:49"
+      "fid": "3ddc062c070f4fe18513d5ea0b87d3df"
     },
     {
       "title": "深度学习入门：基于Python的理论与实现 (斋藤康毅) ",
       "description": "包含深度学习入门：基于Python的理论与实现 (斋藤康毅) 相关的优质资源，适用于各种项目需求。",
-      "image": "images/40.png",
-      "link": "https://pan.quark.cn/s/e2df8e562769",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/c4db76ed3f78",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/深度学习入门：基于Python的理论与实现 (斋藤康毅) ",
-      "fid": "2d1f31ed230a4377aa41f3b7b1bcc148",
-      "total_count": 3,
-      "generated_at": "2025-09-01 00:39:53"
+      "fid": "2d1f31ed230a4377aa41f3b7b1bcc148"
     },
     {
       "title": "王爽神作汇编语言",
       "description": "包含王爽神作汇编语言相关的优质资源，适用于各种项目需求。",
-      "image": "images/41.png",
-      "link": "https://pan.quark.cn/s/653bbf972072",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/55f91a86f318",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/王爽神作汇编语言",
-      "fid": "23bbf45313c04689947f346be8035791",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:39:57"
+      "fid": "23bbf45313c04689947f346be8035791"
     },
     {
       "title": "小互推荐的《引爆点》自媒体必备",
       "description": "包含小互推荐的《引爆点》自媒体必备相关的优质资源，适用于各种项目需求。",
-      "image": "images/42.png",
-      "link": "https://pan.quark.cn/s/23d2a829840c",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/915498cea837",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/小互推荐的《引爆点》自媒体必备",
-      "fid": "d6e9e5a1c39b4d338cf695049e14611b",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:40:01"
+      "fid": "d6e9e5a1c39b4d338cf695049e14611b"
     },
     {
       "title": "自学是门手艺 (李笑来) ",
       "description": "包含自学是门手艺 (李笑来) 相关的优质资源，适用于各种项目需求。",
-      "image": "images/43.png",
-      "link": "https://pan.quark.cn/s/7ec6e40e451f",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/63e07c0cddc8",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/自学是门手艺 (李笑来) ",
-      "fid": "e0a8711d5de44ec88e745f57f7186698",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:40:05"
+      "fid": "e0a8711d5de44ec88e745f57f7186698"
     },
     {
       "title": "莫言晚熟的人",
       "description": "包含莫言晚熟的人相关的优质资源，适用于各种项目需求。",
-      "image": "images/44.png",
-      "link": "https://pan.quark.cn/s/7a769479ada8",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/8ab2bfee0dab",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/莫言晚熟的人",
-      "fid": "709e915cc4074687959ab7fee6e24a49",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:40:10"
+      "fid": "709e915cc4074687959ab7fee6e24a49"
     },
     {
       "title": "Peter Thiel推荐的The Sovereign Individual (Mastering the Transition to the Information Age)",
       "description": "包含Peter Thiel推荐的The Sovereign Individual (Mastering the Transition to the Information Age)相关的优质资源，适用于各种项目需求。",
-      "image": "images/45.png",
-      "link": "https://pan.quark.cn/s/239917ff11e9",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/84bf933bc361",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/Peter Thiel推荐的The Sovereign Individual (Mastering the Transition to the Information Age)",
-      "fid": "91f06c391f3047108cc7445a77ed1930",
-      "total_count": 2,
-      "generated_at": "2025-09-01 00:40:14"
+      "fid": "91f06c391f3047108cc7445a77ed1930"
     },
     {
       "title": "自由职业者生存手册",
       "description": "包含自由职业者生存手册相关的优质资源，适用于各种项目需求。",
-      "image": "images/46.png",
-      "link": "https://pan.quark.cn/s/e0b52f0e3dbb",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/b2d1c87c7fc3",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/自由职业者生存手册",
-      "fid": "92fb39976ebc493da7b3714fe7f4a245",
-      "total_count": 4,
-      "generated_at": "2025-09-01 00:40:18"
+      "fid": "92fb39976ebc493da7b3714fe7f4a245"
     },
     {
       "title": "1493：物种大交换开创的世界史",
       "description": "包含1493：物种大交换开创的世界史相关的优质资源，适用于各种项目需求。",
-      "image": "images/47.png",
-      "link": "https://pan.quark.cn/s/235122b23cfb",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/fb8567290c44",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/1493：物种大交换开创的世界史",
-      "fid": "d6d878feb76c461a9a753395c4da2af6",
-      "total_count": 2,
-      "generated_at": "2025-09-01 00:40:22"
+      "fid": "d6d878feb76c461a9a753395c4da2af6"
     },
     {
       "title": "零售书籍合集",
       "description": "包含零售书籍合集相关的优质资源，适用于各种项目需求。",
-      "image": "images/48.png",
-      "link": "https://pan.quark.cn/s/061c3481a1bf",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/6688d73bacba",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/零售书籍合集",
-      "fid": "a85d18c7cff94cbab35af715d5214dc3",
-      "total_count": 7,
-      "generated_at": "2025-09-01 00:40:26"
+      "fid": "a85d18c7cff94cbab35af715d5214dc3"
     },
     {
       "title": "李笑来推荐的两本致富必读书",
       "description": "包含李笑来推荐的两本致富必读书相关的优质资源，适用于各种项目需求。",
-      "image": "images/49.png",
-      "link": "https://pan.quark.cn/s/6b90b6b8f333",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/dfe79ef2970e",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/李笑来推荐的两本致富必读书",
-      "fid": "92ed726064544a6d90936253dd2ae21a",
-      "total_count": 2,
-      "generated_at": "2025-09-01 00:40:30"
+      "fid": "92ed726064544a6d90936253dd2ae21a"
     },
     {
       "title": "Million Dollar Weekend The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (Noah Kagan) -中英对照版",
       "description": "包含Million Dollar Weekend The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (Noah Kagan) -中英对照版相关的优质资源，适用于各种项目需求。",
-      "image": "images/50.png",
-      "link": "https://pan.quark.cn/s/30800a06b2db",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/5b41b942a423",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/Million Dollar Weekend The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (Noah Kagan) -中英对照版",
-      "fid": "9335cdb863c3409f8c2f887da827fd69",
-      "total_count": 2,
-      "generated_at": "2025-09-01 00:40:35"
+      "fid": "9335cdb863c3409f8c2f887da827fd69"
     },
     {
       "title": "咪蒙文章合集6528页",
       "description": "包含咪蒙文章合集6528页相关的优质资源，适用于各种项目需求。",
-      "image": "images/51.png",
-      "link": "https://pan.quark.cn/s/adb52836877d",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/7368cd61dc93",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/咪蒙文章合集6528页",
-      "fid": "019d964d27384ea1990cfa4ce4a0a5c0",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:40:39"
+      "fid": "019d964d27384ea1990cfa4ce4a0a5c0"
     },
     {
       "title": "小米创业思考",
       "description": "包含小米创业思考相关的优质资源，适用于各种项目需求。",
-      "image": "images/52.png",
-      "link": "https://pan.quark.cn/s/992254251725",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/2860b7fcc74f",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/小米创业思考",
-      "fid": "757ece5196b04b3aa8e8ba6e6bdc411a",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:40:43"
+      "fid": "757ece5196b04b3aa8e8ba6e6bdc411a"
     },
     {
       "title": "Writing for Impact- 8 Secrets from Science That Will Fire Up Your Readers’ Brains",
       "description": "包含Writing for Impact- 8 Secrets from Science That Will Fire Up Your Readers’ Brains相关的优质资源，适用于各种项目需求。",
-      "image": "images/53.png",
-      "link": "https://pan.quark.cn/s/0a8a598b671b",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/7221aa773f4b",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/Writing for Impact- 8 Secrets from Science That Will Fire Up Your Readers’ Brains",
-      "fid": "7ac6d87694304cea8794043d6c33f8af",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:40:47"
+      "fid": "7ac6d87694304cea8794043d6c33f8af"
     },
     {
       "title": "李嘉诚传",
       "description": "包含李嘉诚传相关的优质资源，适用于各种项目需求。",
-      "image": "images/54.png",
-      "link": "https://pan.quark.cn/s/5ccc6939075c",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/64c847b63403",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/李嘉诚传",
-      "fid": "a6155dbb44e1474c80c587f13d6fc5a4",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:40:51"
+      "fid": "a6155dbb44e1474c80c587f13d6fc5a4"
     },
     {
       "title": "中间人经济",
       "description": "包含中间人经济相关的优质资源，适用于各种项目需求。",
-      "image": "images/55.png",
-      "link": "https://pan.quark.cn/s/03905d73067c",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/cc3c000b3b10",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/中间人经济",
-      "fid": "ddee645bd3884d0fbfc6b8f37e647f58",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:40:58"
+      "fid": "ddee645bd3884d0fbfc6b8f37e647f58"
     },
     {
       "title": "工薪族财务自由说明书",
       "description": "包含工薪族财务自由说明书相关的优质资源，适用于各种项目需求。",
-      "image": "images/56.png",
-      "link": "https://pan.quark.cn/s/d767bbf5b190",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/90a7df64dd9f",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/工薪族财务自由说明书",
-      "fid": "d923ae0d190c4802ae38dad3023c1995",
-      "total_count": 3,
-      "generated_at": "2025-09-01 00:41:02"
+      "fid": "d923ae0d190c4802ae38dad3023c1995"
     },
     {
       "title": "李一舟《创富》",
       "description": "包含李一舟《创富》相关的优质资源，适用于各种项目需求。",
-      "image": "images/57.png",
-      "link": "https://pan.quark.cn/s/5fbefbc587fd",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/75df36fd6b90",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/李一舟《创富》",
-      "fid": "7f223e1efd9442fabf6758f590693d2e",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:41:06"
+      "fid": "7f223e1efd9442fabf6758f590693d2e"
     },
     {
       "title": "最重要的事：只有一件",
       "description": "包含最重要的事：只有一件相关的优质资源，适用于各种项目需求。",
-      "image": "images/58.png",
-      "link": "https://pan.quark.cn/s/f481170dfbbd",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/c0fab392f8e7",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/最重要的事：只有一件",
-      "fid": "75d5c70f8db54ecb9803f4d6d4ea348b",
-      "total_count": 2,
-      "generated_at": "2025-09-01 00:41:10"
+      "fid": "75d5c70f8db54ecb9803f4d6d4ea348b"
     },
     {
       "title": "《做难而正确的事》",
       "description": "包含《做难而正确的事》相关的优质资源，适用于各种项目需求。",
-      "image": "images/59.png",
-      "link": "https://pan.quark.cn/s/d2635538ff8f",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/ace9fdcf5b71",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/《做难而正确的事》",
-      "fid": "05a1658342ba403693ee53b4b03300e6",
-      "total_count": 3,
-      "generated_at": "2025-09-01 00:41:14"
+      "fid": "05a1658342ba403693ee53b4b03300e6"
     },
     {
       "title": "百万美元周末",
       "description": "包含百万美元周末相关的优质资源，适用于各种项目需求。",
-      "image": "images/60.png",
-      "link": "https://pan.quark.cn/s/3f687daee6d4",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/1615d703a544",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/百万美元周末",
-      "fid": "f195e102204f47988672eb1d460c4283",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:41:18"
+      "fid": "f195e102204f47988672eb1d460c4283"
     },
     {
       "title": "价值心法",
       "description": "包含价值心法相关的优质资源，适用于各种项目需求。",
-      "image": "images/61.png",
-      "link": "https://pan.quark.cn/s/a5631fe2f7ab",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/704faf2d9fa2",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/价值心法",
-      "fid": "aa20c04e029d4c2fafe477c46a565b05",
-      "total_count": 2,
-      "generated_at": "2025-09-01 00:41:22"
+      "fid": "aa20c04e029d4c2fafe477c46a565b05"
     },
     {
       "title": "MrBeast",
       "description": "包含MrBeast相关的优质资源，适用于各种项目需求。",
-      "image": "images/62.png",
-      "link": "https://pan.quark.cn/s/409446266075",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/3ea9321d911d",
       "path": "res_to_share/电子书/独立开发自媒体副业必读书汇总（定期更新一定要转存）/MrBeast",
-      "fid": "e9d82c0dcd15418cab5af07e70f26588",
-      "total_count": 2,
-      "generated_at": "2025-09-01 00:41:28"
+      "fid": "e9d82c0dcd15418cab5af07e70f26588"
     },
     {
       "title": "《社恐自救指南》",
       "description": "包含《社恐自救指南》相关的优质资源，适用于各种项目需求。",
-      "image": "images/63.png",
-      "link": "https://pan.quark.cn/s/3ae591e8c4de",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/5d91662debf2",
       "path": "res_to_share/电子书/《社恐自救指南》",
-      "fid": "2704f32461e74728ab47e3182463caf2",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:41:32"
+      "fid": "2704f32461e74728ab47e3182463caf2"
     },
     {
       "title": "4.1",
       "description": "包含4.1相关的优质资源，适用于各种项目需求。",
-      "image": "images/64.png",
-      "link": "https://pan.quark.cn/s/ee5211e62e44",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/fc2d5a8b52e9",
       "path": "res_to_share/电子书/知识库VIP群-四月更新合集/4.1",
-      "fid": "d5b007b99b2b4425abb0d1301b5034bd",
-      "total_count": 6,
-      "generated_at": "2025-09-01 00:41:37"
+      "fid": "d5b007b99b2b4425abb0d1301b5034bd"
     },
     {
       "title": "4.2",
       "description": "包含4.2相关的优质资源，适用于各种项目需求。",
-      "image": "images/65.png",
-      "link": "https://pan.quark.cn/s/fd268f26f227",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/2398ea7ac77a",
       "path": "res_to_share/电子书/知识库VIP群-四月更新合集/4.2",
-      "fid": "0d01d459ae4846bbb6d78faee0969a54",
-      "total_count": 11,
-      "generated_at": "2025-09-01 00:41:41"
+      "fid": "0d01d459ae4846bbb6d78faee0969a54"
     },
     {
       "title": "4.3",
       "description": "包含4.3相关的优质资源，适用于各种项目需求。",
-      "image": "images/66.png",
-      "link": "https://pan.quark.cn/s/87c7eba866c0",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/23df8aa7b216",
       "path": "res_to_share/电子书/知识库VIP群-四月更新合集/4.3",
-      "fid": "f945856c90e04df4be22fa245d067b2d",
-      "total_count": 17,
-      "generated_at": "2025-09-01 00:41:45"
+      "fid": "f945856c90e04df4be22fa245d067b2d"
     },
     {
       "title": "4.4",
       "description": "包含4.4相关的优质资源，适用于各种项目需求。",
-      "image": "images/67.png",
-      "link": "https://pan.quark.cn/s/f6a634e030b3",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/c5bf6ef431c2",
       "path": "res_to_share/电子书/知识库VIP群-四月更新合集/4.4",
-      "fid": "f0428af4346e41769e175078dc4ce75a",
-      "total_count": 7,
-      "generated_at": "2025-09-01 00:41:49"
+      "fid": "f0428af4346e41769e175078dc4ce75a"
     },
     {
       "title": "2025年最新1000套简历模板汇总",
       "description": "专业模板素材，可直接用于项目开发。",
-      "image": "images/68.png",
-      "link": "https://pan.quark.cn/s/e6a1bcdaeec0",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/cdb9a18a5a29",
       "path": "res_to_share/电子书/2025年最新1000套简历模板汇总",
-      "fid": "56d86bb9b4854171a1ba59def9d8e516",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:41:52"
+      "fid": "56d86bb9b4854171a1ba59def9d8e516"
     },
     {
       "title": "借款合同",
       "description": "包含借款合同相关的优质资源，适用于各种项目需求。",
-      "image": "images/69.png",
-      "link": "https://pan.quark.cn/s/1c29860cc681",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/989124eb1c38",
       "path": "res_to_share/电子书/32个行业 各类合同模板 900份/借款合同",
-      "fid": "5cd05c3f04554f81a18498231357696d",
-      "total_count": 13,
-      "generated_at": "2025-09-01 00:41:58"
+      "fid": "5cd05c3f04554f81a18498231357696d"
     },
     {
       "title": "设备采购或维护",
       "description": "包含设备采购或维护相关的优质资源，适用于各种项目需求。",
-      "image": "images/70.png",
-      "link": "https://pan.quark.cn/s/6e97670516eb",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/06d7b34834d8",
       "path": "res_to_share/电子书/32个行业 各类合同模板 900份/设备采购或维护",
-      "fid": "47366eeee91644feb342692a9a46bdbe",
-      "total_count": 12,
-      "generated_at": "2025-09-01 00:42:02"
+      "fid": "47366eeee91644feb342692a9a46bdbe"
     },
     {
       "title": "员工手册",
       "description": "包含员工手册相关的优质资源，适用于各种项目需求。",
-      "image": "images/71.png",
-      "link": "https://pan.quark.cn/s/385bb8b6b038",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/d20fa7117fc0",
       "path": "res_to_share/电子书/32个行业 各类合同模板 900份/员工手册",
-      "fid": "6f333f6a6d5c4de98ba4da7385dcd484",
-      "total_count": 9,
-      "generated_at": "2025-09-01 00:42:07"
+      "fid": "6f333f6a6d5c4de98ba4da7385dcd484"
     },
     {
       "title": "电子商务协议",
       "description": "包含电子商务协议相关的优质资源，适用于各种项目需求。",
-      "image": "images/72.png",
-      "link": "https://pan.quark.cn/s/574ece8f2d64",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/f6c017de5e44",
       "path": "res_to_share/电子书/32个行业 各类合同模板 900份/电子商务协议",
-      "fid": "6434b011cf084866a92764b643338bfe",
-      "total_count": 16,
-      "generated_at": "2025-09-01 00:42:11"
+      "fid": "6434b011cf084866a92764b643338bfe"
     },
     {
       "title": "股权转让",
       "description": "包含股权转让相关的优质资源，适用于各种项目需求。",
-      "image": "images/73.png",
-      "link": "https://pan.quark.cn/s/645603a4ae49",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/1a6c938752a3",
       "path": "res_to_share/电子书/32个行业 各类合同模板 900份/股权转让",
-      "fid": "c17ae9afcfcf4613831283361c407980",
-      "total_count": 10,
-      "generated_at": "2025-09-01 00:42:15"
+      "fid": "c17ae9afcfcf4613831283361c407980"
     },
     {
       "title": "网络合作协议",
       "description": "包含网络合作协议相关的优质资源，适用于各种项目需求。",
-      "image": "images/74.png",
-      "link": "https://pan.quark.cn/s/d839b905c6a0",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/55374ecd45cb",
       "path": "res_to_share/电子书/32个行业 各类合同模板 900份/网络合作协议",
-      "fid": "479d17139ac2484db1941e9108a7122b",
-      "total_count": 11,
-      "generated_at": "2025-09-01 00:42:19"
+      "fid": "479d17139ac2484db1941e9108a7122b"
     },
     {
       "title": "软件销售协议",
       "description": "实用软件工具集合，涵盖开发、设计、办公等多个领域。",
-      "image": "images/75.png",
-      "link": "https://pan.quark.cn/s/fe92ddb25756",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/b03a65dcf121",
       "path": "res_to_share/电子书/32个行业 各类合同模板 900份/软件销售协议",
-      "fid": "638a86fc4c484cb6bd405db5c0987140",
-      "total_count": 8,
-      "generated_at": "2025-09-01 00:42:23"
+      "fid": "638a86fc4c484cb6bd405db5c0987140"
     },
     {
       "title": "加盟店合同",
       "description": "包含加盟店合同相关的优质资源，适用于各种项目需求。",
-      "image": "images/76.png",
-      "link": "https://pan.quark.cn/s/17db1f460936",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/12123d1066a3",
       "path": "res_to_share/电子书/32个行业 各类合同模板 900份/加盟店合同",
-      "fid": "1d5f95ad301c4431b7bf6d9e34cccdc2",
-      "total_count": 21,
-      "generated_at": "2025-09-01 00:42:28"
+      "fid": "1d5f95ad301c4431b7bf6d9e34cccdc2"
     },
     {
       "title": "装修协议",
       "description": "包含装修协议相关的优质资源，适用于各种项目需求。",
-      "image": "images/77.png",
-      "link": "https://pan.quark.cn/s/2d6bccbabaee",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/513951dcb810",
       "path": "res_to_share/电子书/32个行业 各类合同模板 900份/装修协议",
-      "fid": "9c685578bb30497c92f1ff342674f40b",
-      "total_count": 32,
-      "generated_at": "2025-09-01 00:42:33"
+      "fid": "9c685578bb30497c92f1ff342674f40b"
     },
     {
       "title": "土地租赁",
       "description": "包含土地租赁相关的优质资源，适用于各种项目需求。",
-      "image": "images/78.png",
-      "link": "https://pan.quark.cn/s/8d7f41d06639",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/b835ba24d2cc",
       "path": "res_to_share/电子书/32个行业 各类合同模板 900份/土地租赁",
-      "fid": "a924cf0ed8274b658b872603a11075ac",
-      "total_count": 9,
-      "generated_at": "2025-09-01 00:42:39"
+      "fid": "a924cf0ed8274b658b872603a11075ac"
     },
     {
       "title": "委托加工协议",
       "description": "包含委托加工协议相关的优质资源，适用于各种项目需求。",
-      "image": "images/79.png",
-      "link": "https://pan.quark.cn/s/14b6308f1d75",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/74c39f9cf57f",
       "path": "res_to_share/电子书/32个行业 各类合同模板 900份/委托加工协议",
-      "fid": "8238c73d3a024a34a5e09c0e882ddfab",
-      "total_count": 16,
-      "generated_at": "2025-09-01 00:42:43"
+      "fid": "8238c73d3a024a34a5e09c0e882ddfab"
     },
     {
       "title": "分销合作协议",
       "description": "包含分销合作协议相关的优质资源，适用于各种项目需求。",
-      "image": "images/80.png",
-      "link": "https://pan.quark.cn/s/e956b8773bd6",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/343e143393f9",
       "path": "res_to_share/电子书/32个行业 各类合同模板 900份/分销合作协议",
-      "fid": "8cee6c12310946398c93f6e0b5d9487c",
-      "total_count": 7,
-      "generated_at": "2025-09-01 00:42:48"
+      "fid": "8cee6c12310946398c93f6e0b5d9487c"
     },
     {
       "title": "合同专用条款",
       "description": "包含合同专用条款相关的优质资源，适用于各种项目需求。",
-      "image": "images/81.png",
-      "link": "https://pan.quark.cn/s/eebfdaec7ec7",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/f1e3ac8da4d5",
       "path": "res_to_share/电子书/32个行业 各类合同模板 900份/合同专用条款",
-      "fid": "27c9d86b7e154640981a74558a640442",
-      "total_count": 4,
-      "generated_at": "2025-09-01 00:42:52"
+      "fid": "27c9d86b7e154640981a74558a640442"
     },
     {
       "title": "技术服务协议",
       "description": "包含技术服务协议相关的优质资源，适用于各种项目需求。",
-      "image": "images/82.png",
-      "link": "https://pan.quark.cn/s/80d616eccf1d",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/9aa2dd61ea42",
       "path": "res_to_share/电子书/32个行业 各类合同模板 900份/技术服务协议",
-      "fid": "e733424fb1874d308ac0744840ff5eb9",
-      "total_count": 9,
-      "generated_at": "2025-09-01 00:42:56"
+      "fid": "e733424fb1874d308ac0744840ff5eb9"
     },
     {
       "title": "出国协议",
       "description": "包含出国协议相关的优质资源，适用于各种项目需求。",
-      "image": "images/83.png",
-      "link": "https://pan.quark.cn/s/37a30a214922",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/9676b9f5c827",
       "path": "res_to_share/电子书/32个行业 各类合同模板 900份/出国协议",
-      "fid": "cd56194dde3845d1816e5a1993ce7d26",
-      "total_count": 14,
-      "generated_at": "2025-09-01 00:43:00"
+      "fid": "cd56194dde3845d1816e5a1993ce7d26"
     },
     {
       "title": "房屋预售或买卖合同",
       "description": "包含房屋预售或买卖合同相关的优质资源，适用于各种项目需求。",
-      "image": "images/84.png",
-      "link": "https://pan.quark.cn/s/c865ff690fab",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/82810e8e9cea",
       "path": "res_to_share/电子书/32个行业 各类合同模板 900份/房屋预售或买卖合同",
-      "fid": "9f8e89f62ada420291e5cf51dd239b9a",
-      "total_count": 22,
-      "generated_at": "2025-09-01 00:43:06"
+      "fid": "9f8e89f62ada420291e5cf51dd239b9a"
     },
     {
       "title": "数学的雨伞下：理解世界的乐趣",
       "description": "包含数学的雨伞下：理解世界的乐趣相关的优质资源，适用于各种项目需求。",
-      "image": "images/85.png",
-      "link": "https://pan.quark.cn/s/5e6560c20512",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/3229c87f96cb",
       "path": "res_to_share/电子书/数学的雨伞下：理解世界的乐趣/数学的雨伞下：理解世界的乐趣",
-      "fid": "1ecc0ed3254a4df092af7f63f498e5e7",
-      "total_count": 3,
-      "generated_at": "2025-09-01 00:43:11"
+      "fid": "1ecc0ed3254a4df092af7f63f498e5e7"
     },
     {
       "title": "网络是怎样连接的",
       "description": "包含网络是怎样连接的相关的优质资源，适用于各种项目需求。",
-      "image": "images/86.png",
-      "link": "https://pan.quark.cn/s/5540c81596a4",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/5f6802589547",
       "path": "res_to_share/电子书/网络是怎样连接的/网络是怎样连接的",
-      "fid": "cceb909df663470498c467992d8c2f3d",
-      "total_count": 4,
-      "generated_at": "2025-09-01 00:43:17"
+      "fid": "cceb909df663470498c467992d8c2f3d"
     },
     {
       "title": "Security Analysis (7th Edition)",
       "description": "包含Security Analysis (7th Edition)相关的优质资源，适用于各种项目需求。",
-      "image": "images/87.png",
-      "link": "https://pan.quark.cn/s/fd0e9859ef7a",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/83034cc8a820",
       "path": "res_to_share/电子书/Security Analysis(7th Edition)/Security Analysis (7th Edition)",
-      "fid": "3f51e35ab6d74b9088c487b6c008a746",
-      "total_count": 2,
-      "generated_at": "2025-09-01 00:43:24"
+      "fid": "3f51e35ab6d74b9088c487b6c008a746"
     },
     {
       "title": "安全边际",
       "description": "包含安全边际相关的优质资源，适用于各种项目需求。",
-      "image": "images/88.png",
-      "link": "https://pan.quark.cn/s/cfe5f12bcafd",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/19678f76a6f0",
       "path": "res_to_share/电子书/安全边际/安全边际",
-      "fid": "beea553fbd5f405ebb8e740400fb65a5",
-      "total_count": 2,
-      "generated_at": "2025-09-01 00:43:29"
+      "fid": "beea553fbd5f405ebb8e740400fb65a5"
     },
     {
       "title": "西游世界史",
       "description": "包含西游世界史相关的优质资源，适用于各种项目需求。",
-      "image": "images/89.png",
-      "link": "https://pan.quark.cn/s/6ef53f6e3a1b",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/a8f0d860a727",
       "path": "res_to_share/电子书/西游世界史",
-      "fid": "29d1a116f75a4202a03012bfd47a8ef4",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:43:33"
+      "fid": "29d1a116f75a4202a03012bfd47a8ef4"
     },
     {
       "title": "兴趣变现",
       "description": "包含兴趣变现相关的优质资源，适用于各种项目需求。",
-      "image": "images/90.png",
-      "link": "https://pan.quark.cn/s/60476ec2979d",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/23b1737811a4",
       "path": "res_to_share/电子书/兴趣变现",
-      "fid": "f8c2606d1eb44494b944bb99e8cb26b7",
-      "total_count": 2,
-      "generated_at": "2025-09-01 00:43:37"
+      "fid": "f8c2606d1eb44494b944bb99e8cb26b7"
     },
     {
       "title": "浙江大学DeepSeek应用案例集",
       "description": "包含浙江大学DeepSeek应用案例集相关的优质资源，适用于各种项目需求。",
-      "image": "images/91.png",
-      "link": "https://pan.quark.cn/s/9d49441e09b1",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/ce6ac038c10b",
       "path": "res_to_share/电子书/浙江大学DeepSeek应用案例集",
-      "fid": "2afcec9d344940a5bea4dc1423dbf09f",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:43:41"
+      "fid": "2afcec9d344940a5bea4dc1423dbf09f"
     },
     {
       "title": "李一舟《创富》",
       "description": "包含李一舟《创富》相关的优质资源，适用于各种项目需求。",
-      "image": "images/92.png",
-      "link": "https://pan.quark.cn/s/6bef748bdd13",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/0a570c5ef481",
       "path": "res_to_share/电子书/李一舟《创富》",
-      "fid": "4d50319ba5d24c25b397cdb0241602bf",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:43:45"
+      "fid": "4d50319ba5d24c25b397cdb0241602bf"
     },
     {
       "title": "《内在动机》",
       "description": "包含《内在动机》相关的优质资源，适用于各种项目需求。",
-      "image": "images/93.png",
-      "link": "https://pan.quark.cn/s/e3ab992809c6",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/f7f3ea221f93",
       "path": "res_to_share/电子书/《内在动机》",
-      "fid": "ed4afe794dd64b639fe522ec3c9091f1",
-      "total_count": 3,
-      "generated_at": "2025-09-01 00:43:53"
+      "fid": "ed4afe794dd64b639fe522ec3c9091f1"
     },
     {
       "title": "历史地图集 谭其骧",
       "description": "包含历史地图集 谭其骧相关的优质资源，适用于各种项目需求。",
-      "image": "images/94.png",
-      "link": "https://pan.quark.cn/s/a95888da3ca4",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/ee2b7f85ddeb",
       "path": "res_to_share/电子书/古代中国地图 (图片+PDF)/历史地图集 谭其骧",
-      "fid": "eddf51bd56ce4f7799324defe8ba68fc",
-      "total_count": 11,
-      "generated_at": "2025-09-01 00:44:08"
+      "fid": "eddf51bd56ce4f7799324defe8ba68fc"
     },
     {
       "title": "人人都在说谎：赤裸裸的数据真相-赛思.斯蒂芬斯-达维多维茨著",
       "description": "包含人人都在说谎：赤裸裸的数据真相-赛思.斯蒂芬斯-达维多维茨著相关的优质资源，适用于各种项目需求。",
-      "image": "images/95.png",
-      "link": "https://pan.quark.cn/s/05b4f55f310e",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/a296769bd7a3",
       "path": "res_to_share/电子书/人人都在说谎：赤裸裸的数据真相-赛思.斯蒂芬斯-达维多维茨著",
-      "fid": "b348e83a70744946976704f8223c7508",
-      "total_count": 3,
-      "generated_at": "2025-09-01 00:44:12"
+      "fid": "b348e83a70744946976704f8223c7508"
     },
     {
       "title": "别独自用餐：85的成功来自高效的社交能力",
       "description": "包含别独自用餐：85的成功来自高效的社交能力相关的优质资源，适用于各种项目需求。",
-      "image": "images/96.png",
-      "link": "https://pan.quark.cn/s/93343fffb8ba",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/1d97d564fe67",
       "path": "res_to_share/电子书/别独自用餐：85的成功来自高效的社交能力",
-      "fid": "1cbac5c8ea914b1592c74db64fe4be1e",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:44:17"
+      "fid": "1cbac5c8ea914b1592c74db64fe4be1e"
     },
     {
       "title": "一家人的极简生活",
       "description": "包含一家人的极简生活相关的优质资源，适用于各种项目需求。",
-      "image": "images/97.png",
-      "link": "https://pan.quark.cn/s/9397ebd7ee3c",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/b7567824d38b",
       "path": "res_to_share/电子书/一家人的极简生活",
-      "fid": "ad1a7eccac62429e95b2b8f1b9ce3e52",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:44:21"
+      "fid": "ad1a7eccac62429e95b2b8f1b9ce3e52"
     },
     {
       "title": "讲了100万次的故事（套装8部12册） - [俄]阿法纳西耶夫 等",
       "description": "包含讲了100万次的故事（套装8部12册） - [俄]阿法纳西耶夫 等相关的优质资源，适用于各种项目需求。",
-      "image": "images/98.png",
-      "link": "https://pan.quark.cn/s/545f808bffbd",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/e6a818bb5d94",
       "path": "res_to_share/电子书/讲了100万次的故事（套装8部12册） - [俄]阿法纳西耶夫 等",
-      "fid": "0d70582a40f749fab54fd56472a583bc",
-      "total_count": 4,
-      "generated_at": "2025-09-01 00:44:25"
+      "fid": "0d70582a40f749fab54fd56472a583bc"
     },
     {
       "title": "《古人名字解诂》豆瓣推荐起名必读奇书[pdf]",
       "description": "包含《古人名字解诂》豆瓣推荐起名必读奇书[pdf]相关的优质资源，适用于各种项目需求。",
-      "image": "images/99.png",
-      "link": "https://pan.quark.cn/s/0c9fc34d7e0f",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/6045f2d66137",
       "path": "res_to_share/电子书/《古人名字解诂》豆瓣推荐起名必读奇书[pdf]",
-      "fid": "4872fb80928a491b801322d49eb01883",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:44:31"
+      "fid": "4872fb80928a491b801322d49eb01883"
     },
     {
       "title": "《像高手一样发言》好好说话的公式和方法[pdf]",
       "description": "包含《像高手一样发言》好好说话的公式和方法[pdf]相关的优质资源，适用于各种项目需求。",
-      "image": "images/100.png",
-      "link": "https://pan.quark.cn/s/dccf6c8b5f52",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/25503a1c19e8",
       "path": "res_to_share/电子书/《像高手一样发言》好好说话的公式和方法[pdf]",
-      "fid": "4e9c6f1581f44066994255fc86ba036e",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:44:35"
+      "fid": "4e9c6f1581f44066994255fc86ba036e"
     },
     {
       "title": "《一本稀奇古怪的科学书》每个脑洞大开的问题背后都有一个科学的答案[pdf]",
       "description": "包含《一本稀奇古怪的科学书》每个脑洞大开的问题背后都有一个科学的答案[pdf]相关的优质资源，适用于各种项目需求。",
-      "image": "images/101.png",
-      "link": "https://pan.quark.cn/s/7ab2dd021b96",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/a0fff11b7f7f",
       "path": "res_to_share/电子书/《一本稀奇古怪的科学书》每个脑洞大开的问题背后都有一个科学的答案[pdf]",
-      "fid": "3c1db6fa019644b6b262353d3987cbda",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:44:39"
+      "fid": "3c1db6fa019644b6b262353d3987cbda"
     },
     {
       "title": "三国冷知识",
       "description": "包含三国冷知识相关的优质资源，适用于各种项目需求。",
-      "image": "images/102.png",
-      "link": "https://pan.quark.cn/s/46d5e9eeadd0",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/a5efcb639cd0",
       "path": "res_to_share/电子书/三国冷知识",
-      "fid": "037a85636fdd4cbc9e24555d06a9a58e",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:44:43"
+      "fid": "037a85636fdd4cbc9e24555d06a9a58e"
     },
     {
       "title": "《切开看看：揭秘物体内部的隐藏世界》",
       "description": "包含《切开看看：揭秘物体内部的隐藏世界》相关的优质资源，适用于各种项目需求。",
-      "image": "images/103.png",
-      "link": "https://pan.quark.cn/s/024bd2609a92",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/184711b69364",
       "path": "res_to_share/电子书/《切开看看：揭秘物体内部的隐藏世界》",
-      "fid": "a7fb83c9de7145dfabff6f14862bc5a3",
-      "total_count": 3,
-      "generated_at": "2025-09-01 00:44:47"
+      "fid": "a7fb83c9de7145dfabff6f14862bc5a3"
     },
     {
       "title": "《买房可以很简单》给普通人的一堂极简买房课[pdf]",
       "description": "包含《买房可以很简单》给普通人的一堂极简买房课[pdf]相关的优质资源，适用于各种项目需求。",
-      "image": "images/104.png",
-      "link": "https://pan.quark.cn/s/2526530d0aab",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/88bfa9ff57fa",
       "path": "res_to_share/电子书/《买房可以很简单》给普通人的一堂极简买房课[pdf]",
-      "fid": "67f24ec8569c45d39dd1c1a97d613dee",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:44:51"
+      "fid": "67f24ec8569c45d39dd1c1a97d613dee"
     },
     {
       "title": "今晚好眠：你应该知道的睡眠常识",
       "description": "包含今晚好眠：你应该知道的睡眠常识相关的优质资源，适用于各种项目需求。",
-      "image": "images/105.png",
-      "link": "https://pan.quark.cn/s/7ec134dbb248",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/49d4d356dbbd",
       "path": "res_to_share/电子书/今晚好眠：你应该知道的睡眠常识",
-      "fid": "904b68a5a0f144e3876f6ddf484decb6",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:44:55"
+      "fid": "904b68a5a0f144e3876f6ddf484decb6"
     },
     {
       "title": "《认知黑客：用简单的逻辑看透复杂的世界》套装共8册[pdf]",
       "description": "包含《认知黑客：用简单的逻辑看透复杂的世界》套装共8册[pdf]相关的优质资源，适用于各种项目需求。",
-      "image": "images/106.png",
-      "link": "https://pan.quark.cn/s/c40236a86874",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/40cc165aa1c4",
       "path": "res_to_share/电子书/《认知黑客：用简单的逻辑看透复杂的世界》套装共8册[pdf]",
-      "fid": "a5810f300b114061a3e90a5155edcb80",
-      "total_count": 1,
-      "generated_at": "2025-09-01 00:44:59"
+      "fid": "a5810f300b114061a3e90a5155edcb80"
     },
     {
       "title": "🎨奥斯卡最佳动画短片 1932-2023【6.81GB】",
       "description": "包含🎨奥斯卡最佳动画短片 1932-2023【6.81GB】相关的优质资源，适用于各种项目需求。",
-      "image": "images/107.png",
-      "link": "https://pan.quark.cn/s/b5ffdf080deb",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/356a7f177a35",
       "path": "res_to_share/影视/🎨奥斯卡最佳动画短片 1932-2023【6.81GB】",
-      "fid": "f654ba62162b4cf8b74ef94eb68d97a7",
-      "total_count": 50,
-      "generated_at": "2025-09-01 00:45:08"
+      "fid": "f654ba62162b4cf8b74ef94eb68d97a7"
     },
     {
       "title": "末日崩塌 2160p remux (2015)",
       "description": "包含末日崩塌 2160p remux (2015)相关的优质资源，适用于各种项目需求。",
-      "image": "images/108.png",
-      "link": "https://pan.quark.cn/s/d30c546c5d7d",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/30b77c32a3aa",
       "path": "res_to_share/影视/末日崩塌/末日崩塌 2160p remux (2015)",
-      "fid": "3a1ef66b6a9948f1b4fc7daba899398f",
-      "total_count": 4,
-      "generated_at": "2025-09-01 00:45:13"
+      "fid": "3a1ef66b6a9948f1b4fc7daba899398f"
     },
     {
       "title": "04.6个万能公式搞定职场PPT（完结）",
       "description": "包含04.6个万能公式搞定职场PPT（完结）相关的优质资源，适用于各种项目需求。",
-      "image": "images/109.png",
-      "link": "https://pan.quark.cn/s/7f84306f0186",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/902b6e3053d2",
       "path": "res_to_share/教程/04.6个万能公式搞定职场PPT（完结）",
-      "fid": "98e1aba7a9a848fa8b955d04af20fe2d",
-      "total_count": 9,
-      "generated_at": "2025-09-01 00:45:19"
+      "fid": "98e1aba7a9a848fa8b955d04af20fe2d"
     },
     {
       "title": "07.人人都能唱出好歌声（完结）",
       "description": "包含07.人人都能唱出好歌声（完结）相关的优质资源，适用于各种项目需求。",
-      "image": "images/110.png",
-      "link": "https://pan.quark.cn/s/213af115dff6",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/9920ddf60b06",
       "path": "res_to_share/教程/07.人人都能唱出好歌声（完结）",
-      "fid": "c7ffcf537c8f439ab4782d330201488b",
-      "total_count": 13,
-      "generated_at": "2025-09-01 00:45:23"
+      "fid": "c7ffcf537c8f439ab4782d330201488b"
     },
     {
       "title": "a103.范李猿：14天体态矫正计划｜上身篇（完结）",
       "description": "包含a103.范李猿：14天体态矫正计划｜上身篇（完结）相关的优质资源，适用于各种项目需求。",
-      "image": "images/111.png",
-      "link": "https://pan.quark.cn/s/a9c6bdfdde07",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/7011bebf6167",
       "path": "res_to_share/教程/a103.范李猿：14天体态矫正计划｜上身篇（完结）",
-      "fid": "b222edec6d4d4fefaf500d31d92bd3ba",
-      "total_count": 20,
-      "generated_at": "2025-09-01 00:45:27"
+      "fid": "b222edec6d4d4fefaf500d31d92bd3ba"
     },
     {
       "title": "a169.旁门左道八合一PPT一站式系统课程（完结）",
       "description": "包含a169.旁门左道八合一PPT一站式系统课程（完结）相关的优质资源，适用于各种项目需求。",
-      "image": "images/112.png",
-      "link": "https://pan.quark.cn/s/7734be15c369",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/c1e2713ba728",
       "path": "res_to_share/教程/a169.旁门左道八合一PPT一站式系统课程（完结）",
-      "fid": "64c74c00e7a642058749b6d67f8ce7cb",
-      "total_count": 50,
-      "generated_at": "2025-09-01 00:45:32"
+      "fid": "64c74c00e7a642058749b6d67f8ce7cb"
     },
     {
       "title": "乔家班er必看的单词页",
       "description": "包含乔家班er必看的单词页相关的优质资源，适用于各种项目需求。",
-      "image": "images/113.png",
-      "link": "https://pan.quark.cn/s/785de73fd2c0",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/a376dd141680",
       "path": "res_to_share/教程/a173.乔伯伯：5500词汇系统课（完结）/乔家班er必看的单词页",
-      "fid": "7fef33b1d92548f996fbd6bbe5c89893",
-      "total_count": 50,
-      "generated_at": "2025-09-01 00:45:38"
+      "fid": "7fef33b1d92548f996fbd6bbe5c89893"
     },
     {
       "title": "1-100",
       "description": "包含1-100相关的优质资源，适用于各种项目需求。",
-      "image": "images/114.png",
-      "link": "https://pan.quark.cn/s/8f1c1e056cf8",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/b61e0ca15f7e",
       "path": "res_to_share/教程/a201. 上外顾悦教授：终极英语口语课（完结）/1-100",
-      "fid": "210c1b8fe18e4ae39688830c9a0c93eb",
-      "total_count": 50,
-      "generated_at": "2025-09-01 00:45:45"
+      "fid": "210c1b8fe18e4ae39688830c9a0c93eb"
     },
     {
       "title": "a213.智慧与谋略：精讲《鬼谷子》",
       "description": "包含a213.智慧与谋略：精讲《鬼谷子》相关的优质资源，适用于各种项目需求。",
-      "image": "images/115.png",
-      "link": "https://pan.quark.cn/s/13b4d01afa89",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/2f9e0fbce7b2",
       "path": "res_to_share/教程/a213.智慧与谋略：精讲《鬼谷子》",
-      "fid": "d22c4b8d81cc4037b13f72b7ed6b3890",
-      "total_count": 20,
-      "generated_at": "2025-09-01 00:45:49"
+      "fid": "d22c4b8d81cc4037b13f72b7ed6b3890"
+    },
+    {
+      "title": "03 新东方口语名师Sara：听《老友记》，学地道美语_第三辑",
+      "description": "包含03 新东方口语名师Sara：听《老友记》，学地道美语_第三辑相关的优质资源，适用于各种项目需求。",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/682303f5b5a2",
+      "path": "res_to_share/教程/【喜马拉雅付费音频课】老友记/03 新东方口语名师Sara：听《老友记》，学地道美语_第三辑",
+      "fid": "f2968921426d478ebeb0810ecb68c9f7"
+    },
+    {
+      "title": "06. 老友记 外教视频课 19节",
+      "description": "优质视频素材集合，适用于各种多媒体项目。",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/56ef3e155206",
+      "path": "res_to_share/教程/英语学习资源全方位结合老友记全套典藏版1季-10季视频合集（730 GB）/06. 老友记 外教视频课 19节",
+      "fid": "7922023dfe9347bfb6606fe99e196428"
+    },
+    {
+      "title": "07.词汇、笔记、学习方法等其他相关资料",
+      "description": "包含07.词汇、笔记、学习方法等其他相关资料相关的优质资源，适用于各种项目需求。",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/fd701f04ef20",
+      "path": "res_to_share/教程/英语学习资源全方位结合老友记全套典藏版1季-10季视频合集（730 GB）/07.词汇、笔记、学习方法等其他相关资料",
+      "fid": "e0e8ef1be8dc48799aed7bcbdebeb3d0"
+    },
+    {
+      "title": "4.一舟一课：个人IP与副业 （2.0 高阶版本）完整版136节",
+      "description": "包含4.一舟一课：个人IP与副业 （2.0 高阶版本）完整版136节相关的优质资源，适用于各种项目需求。",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/5d8bb3edb009",
+      "path": "res_to_share/教程/💰全网封杀系列！价值6998的李一舟全套课程合集【内含199元AI课程】【目前全网已下架】/4.一舟一课：个人IP与副业 （2.0 高阶版本）完整版136节",
+      "fid": "ad2ca1e5e6194fcb87b28978e55331e3"
+    },
+    {
+      "title": "8.李一舟互联网运营资料",
+      "description": "包含8.李一舟互联网运营资料相关的优质资源，适用于各种项目需求。",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/5fc92cfa7c71",
+      "path": "res_to_share/教程/💰全网封杀系列！价值6998的李一舟全套课程合集【内含199元AI课程】【目前全网已下架】/8.李一舟互联网运营资料",
+      "fid": "7bd5cf9a64a84fdfba115ba57ce59dca"
+    },
+    {
+      "title": "5.一舟一课爆品方法和案例",
+      "description": "包含5.一舟一课爆品方法和案例相关的优质资源，适用于各种项目需求。",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/ce93ae0befee",
+      "path": "res_to_share/教程/💰全网封杀系列！价值6998的李一舟全套课程合集【内含199元AI课程】【目前全网已下架】/5.一舟一课爆品方法和案例",
+      "fid": "2094e371d5534e5e821200600fa38ea7"
+    },
+    {
+      "title": "6.一舟《成事心法2.0》",
+      "description": "包含6.一舟《成事心法2.0》相关的优质资源，适用于各种项目需求。",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/c105351f3256",
+      "path": "res_to_share/教程/💰全网封杀系列！价值6998的李一舟全套课程合集【内含199元AI课程】【目前全网已下架】/6.一舟《成事心法2.0》",
+      "fid": "c2afa0f742824621b922db2216724b22"
+    },
+    {
+      "title": "9.2023鹤老师人人必修的AI启蒙课【同样卖199，也被封了】",
+      "description": "包含9.2023鹤老师人人必修的AI启蒙课【同样卖199，也被封了】相关的优质资源，适用于各种项目需求。",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/7854be9772c5",
+      "path": "res_to_share/教程/💰全网封杀系列！价值6998的李一舟全套课程合集【内含199元AI课程】【目前全网已下架】/9.2023鹤老师人人必修的AI启蒙课【同样卖199，也被封了】",
+      "fid": "476d40c20f1d4255bae53f56de7efbfa"
+    },
+    {
+      "title": "7.一舟本地生活创业营销思维班",
+      "description": "包含7.一舟本地生活创业营销思维班相关的优质资源，适用于各种项目需求。",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/5fcc72e03bb6",
+      "path": "res_to_share/教程/💰全网封杀系列！价值6998的李一舟全套课程合集【内含199元AI课程】【目前全网已下架】/7.一舟本地生活创业营销思维班",
+      "fid": "1a5cedbc43ad480a95df34dd1d9ddcb2"
+    },
+    {
+      "title": "腌制料",
+      "description": "包含腌制料相关的优质资源，适用于各种项目需求。",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/148125699e0e",
+      "path": "res_to_share/教程/各种油炸类炸货美食技术教程/腌制料",
+      "fid": "ce00489158114881b70d4f831d326ff0"
+    },
+    {
+      "title": "王记炸货店里情况",
+      "description": "包含王记炸货店里情况相关的优质资源，适用于各种项目需求。",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/d76d2b47079b",
+      "path": "res_to_share/教程/各种油炸类炸货美食技术教程/王记炸货店里情况",
+      "fid": "31e0f3deb0a7426892e576c21cb8f382"
+    },
+    {
+      "title": "鸡柳鸡排",
+      "description": "包含鸡柳鸡排相关的优质资源，适用于各种项目需求。",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/a8f6b3b88305",
+      "path": "res_to_share/教程/各种油炸类炸货美食技术教程/鸡柳鸡排",
+      "fid": "ef482b8dcaa14eeda23680917ba092ed"
+    },
+    {
+      "title": "十里香卤烤王资料及视频",
+      "description": "优质视频素材集合，适用于各种多媒体项目。",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/73954ecbb942",
+      "path": "res_to_share/教程/各种油炸类炸货美食技术教程/十里香卤烤王资料及视频",
+      "fid": "23e1522aef7147ab9071f0e5979368b3"
+    },
+    {
+      "title": "炸鸡",
+      "description": "包含炸鸡相关的优质资源，适用于各种项目需求。",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/ca78e814571c",
+      "path": "res_to_share/教程/各种油炸类炸货美食技术教程/炸鸡",
+      "fid": "53d835f4d8054c0cb11c8cffcb280df7"
+    },
+    {
+      "title": "炸炉",
+      "description": "包含炸炉相关的优质资源，适用于各种项目需求。",
+      "image": "images/11.png",
+      "link": "https://pan.quark.cn/s/e762e73c0510",
+      "path": "res_to_share/教程/各种油炸类炸货美食技术教程/炸炉",
+      "fid": "3940afa6dd31478c805c3629ab372b4c"
     }
   ],
-  "total_count": 125,
-  "generated_at": "2025-09-01T00:45:49.339682"
+  "version": "final"
 }
